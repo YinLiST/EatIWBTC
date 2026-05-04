@@ -12,7 +12,7 @@ _4K亚音游_
 
 ## 简介
 小游戏：吃掉小IC（I wanna be the Creator , 我想成为创造者）
-|
+
 由@arcxingye的项目《吃掉小鹿乃》(EatKano) 改编而来
 |
 版本v1.0
