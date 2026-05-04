@@ -17,7 +17,7 @@ _4K亚音游_
 
 版本v1.0.1
 
-[English](README_EN.md)
+[English Vision](README_EN.md)
 
 [真原版游戏链接 - 吃掉小苹果](http://game.hg0355.com/game/xpg/))
 
