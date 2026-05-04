@@ -19,7 +19,7 @@ _4K亚音游_
 
 [English Vision](README_EN.md)
 
-[真原版游戏链接 - 吃掉小苹果](http://game.hg0355.com/game/xpg/))
+[真原版游戏链接 - 吃掉小苹果](http://game.hg0355.com/game/xpg/)
 
 [原版游戏仓库 - 吃掉小鹿乃](https://github.com/arcxingye/EatKano)
 
